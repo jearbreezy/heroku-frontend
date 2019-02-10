@@ -1,0 +1,14 @@
+{
+  "profiles": [
+    {
+      "firstname": "Jear",
+      "lastname": "Breezy",
+      "bio":
+        "This is Jear Breezy's website, and this is a bit copy of him, He is an IT Professional, Technician and Dota2 Player.",
+      "tagline": "Developer, Comedian",
+      "twitter": "https://twitter.com/",
+      "imgSrc": "jearclassic.jpg",
+      "id": "tom"
+    }
+  ]
+}
