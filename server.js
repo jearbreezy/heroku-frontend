@@ -11,7 +11,7 @@ const port =process.env.PORT || 8080
 
 app.get("/", (req, res) => {
   res.render("index", {
-    title: "Welcome to JearBreezy's Testing Envi ni Jear",
+    title: "Welcome to JearBreezy's Testing Envi!",
     people: people.profiles
   });
 });
